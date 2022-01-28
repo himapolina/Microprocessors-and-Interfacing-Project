@@ -51,6 +51,7 @@ Table for stepper motor angles:
 
 ## Approach 2
 ![image](https://user-images.githubusercontent.com/67219127/151548243-bd6276eb-cabc-468a-a4bd-82b2184a2544.png)
+
 This graph is fairly linear. This was derived from research papers. 
 We referred to it for making the following table:
 ![image](https://user-images.githubusercontent.com/67219127/151548268-3c8b3163-cdf8-4585-bcf6-2ef590391b56.png)
